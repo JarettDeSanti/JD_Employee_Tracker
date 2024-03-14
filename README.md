@@ -1,4 +1,4 @@
-# JD_ORM_Ecommerce
+# JD_Employee_Tracker
 
 ## Description
 
@@ -23,7 +23,10 @@ Github repository URL: https://github.com/JarettDeSanti/JD_Employee_Tracker <br>
 
 ## Credits
 
+
 ## Acknowledgements 
+
+Assistance with this project was given by TA Daniel T.
 
 ## License
 
