@@ -16,6 +16,8 @@ In order to use this Employee Tracker application, you must start the applicatio
 
 Github repository URL: https://github.com/JarettDeSanti/JD_Employee_Tracker <br>
 
+Walkthrough video URL: https://drive.google.com/file/d/1tiswXPNfzolvnl59bh70zhQ0Y5UIr77d/view
+
 
 ## Screenshot
 
